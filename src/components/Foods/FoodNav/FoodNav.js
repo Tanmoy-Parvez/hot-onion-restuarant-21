@@ -1,22 +1,42 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import Breakfast from '../Breakfast/Breakfast';
+import Dinner from '../Dinner/Dinner';
+import Lunch from '../Lunch/Lunch';
 import "./FoodNav.css"
 
 const FoodNav = () => {
+    const [menuTab, setMenuTab] = useState('Breakfast');
+
+    const handleMenu = (type) => {
+        if (type === 'Breakfast') {
+            setMenuTab("Breakfast")
+        }
+        else if (type === 'Lunch') {
+            setMenuTab("Lunch")
+        }
+        else {
+            setMenuTab("Dinner")
+        }
+    }
     return (
-        <Navbar expand="lg" className="my-5">
-            <Container>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
+        <div>
+            <Navbar expand="lg" className="my-5">
+                <Container>
                     <Nav className="mx-auto nav-item">
-                        <Link to="/breakfast">Breakfast</Link>
-                        <Link to="/lunch">Lunch</Link>
-                        <Link to="/dinner">Dinner</Link>
+                        <button onClick={() => handleMenu("Breakfast")}>Breakfast</button>
+                        <button onClick={() => handleMenu("Lunch")} >Lunch</button>
+                        <button onClick={() => handleMenu("Dinner")} >Dinner</button>
                     </Nav>
-                </Navbar.Collapse>
-            </Container>
-        </Navbar>
+                </Container>
+            </Navbar>
+            <div>
+                {
+                    (menuTab === "Breakfast") ? <Breakfast /> : (menuTab === "Lunch") ? <Lunch /> : <Dinner />
+
+                }
+            </div>
+        </div>
     );
 };
 
