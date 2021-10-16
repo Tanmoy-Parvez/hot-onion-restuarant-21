@@ -1,0 +1,164 @@
+[
+    {
+        "id": 101,
+        "title": "Bagel and cream cheese",
+        "detail": "How we dream about our future",
+        "price": 6.99,
+        "img": "https://i.ibb.co/7Vz3fpQ/breakfast1.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 102,
+        "title": "Breakfast sandwich",
+        "detail": "How we dream about our future",
+        "price": 9.99,
+        "img": "https://i.ibb.co/hDq2J45/breakfast2.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 103,
+        "title": "Baked chicken",
+        "detail": "How we dream about our future",
+        "price": 10.99,
+        "img": "https://i.ibb.co/N78qq2G/breakfast3.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 104,
+        "title": "Eggs benedict",
+        "detail": "How we dream about our future",
+        "price": 8.99,
+        "img": "https://i.ibb.co/YjwmYCF/breakfast4.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 105,
+        "title": "Toast Croissant Fried Egg",
+        "detail": "How we dream about our future",
+        "price": 19.99,
+        "img": "https://i.ibb.co/q0k4D1h/breakfast5.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 106,
+        "title": "Full meal fried egg toast brunch",
+        "detail": "How we dream about our future",
+        "price": 3.99,
+        "img": "https://i.ibb.co/tbfxVLC/breakfast6.png",
+        "category": "breakfast",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 107,
+        "img": "https://i.ibb.co/PML6Y3H/lunch1.png",
+        "title": "Healthy Meal Plan",
+        "detail": "How we dream about your future",
+        "price": 23.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 108,
+        "img": "https://i.ibb.co/Pt91GYL/lunch2.png",
+        "title": "Fried Chicken bento",
+        "detail": "How we dream about your future",
+        "price": 9.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 109,
+        "img": "https://i.ibb.co/mcLZx6L/lunch3.png",
+        "title": "Tarragon Rubbed Salmon",
+        "detail": "How we dream about your future",
+        "price": 6.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 110,
+        "img": "https://i.ibb.co/zsdpZH6/lunch4.png",
+        "title": "Indian Lunch",
+        "detail": "How we dream about your future",
+        "price": 8.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 111,
+        "img": "https://i.ibb.co/tYPHDP8/lunch5.png",
+        "title": "Beef Steak",
+        "detail": "how we dream about your future",
+        "price": 15.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 112,
+        "img": "https://i.ibb.co/prQx5Qp/lunch6.png",
+        "title": "Honey Soy",
+        "detail": "how we dream about your future",
+        "price": 7.99,
+        "category": "lunch",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 113,
+        "img": "https://i.ibb.co/vBLY6V2/dinner1.png",
+        "title": "Grape Fruit and Lentil Salad",
+        "detail": "How we dream about your future",
+        "price": 9.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 114,
+        "img": "https://i.ibb.co/5kxMBVQ/dinner2.png",
+        "title": "Lemoni Salmon Piccata",
+        "detail": "How we dream about your future",
+        "price": 10.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 115,
+        "img": "https://i.ibb.co/rMdp4m8/dinner3.png",
+        "title": "Pork Tenterloin With Quinoa Pilaf",
+        "detail": "How we dream about your future",
+        "price": 12.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 116,
+        "img": "https://i.ibb.co/RpwhQp1/dinner4.png",
+        "title": "French Fries with Cheese",
+        "detail": "How we dream about your future",
+        "price": 8.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 117,
+        "img": "https://i.ibb.co/Wv1KN2Z/dinner5.png",
+        "title": "Garlic Butter Baked Salmon",
+        "detail": "how we dream about your future",
+        "price": 6.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    },
+    {
+        "id": 118,
+        "img": "https://i.ibb.co/VgQtdP1/dinner6.png",
+        "title": "Baked Chicken",
+        "detail": "how we dream about your future",
+        "price": 9.99,
+        "category": "dinner",
+        "description": "The most important rule of healthy eating is not skipping any meal. Skipping meals lowers your metabolic rate. Normal eating includes 3 major meals and 2 snacks between meals. Also, Never skip breakfast. It is the foremost vital meal of the day."
+    }
+]
