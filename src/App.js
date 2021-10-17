@@ -13,6 +13,7 @@ import Menubar from './components/Header/MenuBar/MenuBar';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import Shipping from './components/Shipping/Shipping';
 import AuthProvider from './context/AuthProvider';
+import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
@@ -39,6 +40,9 @@ function App() {
             <PrivateRoute path="/shipping">
               <Shipping />
             </PrivateRoute>
+            <Route path="*">
+              <NotFound />
+            </Route>
           </Switch>
           <Footer />
         </BrowserRouter>
