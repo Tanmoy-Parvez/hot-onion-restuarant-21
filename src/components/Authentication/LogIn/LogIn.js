@@ -19,7 +19,7 @@ const LogIn = () => {
 
     }
     return (
-        <div className="login-form text-center">
+        <div className="form text-center">
             <div className="container py-5">
                 <img src={logo} alt="" className="w-25" />
                 <div className="container w-75 mt-3">
