@@ -19,8 +19,8 @@ const LogIn = () => {
 
     }
     return (
-        <div className="banner login-form text-center">
-            <div className="container py-3">
+        <div className="login-form text-center">
+            <div className="container py-5">
                 <img src={logo} alt="" className="w-25" />
                 <div className="container w-75 mt-3">
                     <div className="bg-white w-50 mx-auto py-4 px-5 rounded-3">

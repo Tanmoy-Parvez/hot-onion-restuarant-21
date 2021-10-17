@@ -30,7 +30,7 @@ const FoodNav = () => {
                     </Nav>
                 </Container>
             </Navbar>
-            <div>
+            <div className="my-5">
                 {
                     (menuTab === "Breakfast") ? <Breakfast /> : (menuTab === "Lunch") ? <Lunch /> : <Dinner />
 
