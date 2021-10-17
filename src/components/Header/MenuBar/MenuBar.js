@@ -18,12 +18,15 @@ const MenuBar = () => {
     const handleShipping = () => {
         history.push("/shipping")
     }
+    const handleNavbarBand = () => {
+        history.push("/home")
+    }
 
     return (
         <>
             <Navbar variant="light">
                 <Container>
-                    <Navbar.Brand href="#home">
+                    <Navbar.Brand href="" onClick={handleNavbarBand}>
                         <img
                             src={logo}
                             width="130"
