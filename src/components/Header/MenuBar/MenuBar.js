@@ -14,6 +14,11 @@ const MenuBar = () => {
     const handleSignUp = () => {
         history.push("/register")
     }
+
+    const handleShipping = () => {
+        history.push("/shipping")
+    }
+
     return (
         <>
             <Navbar variant="light">
@@ -28,15 +33,14 @@ const MenuBar = () => {
                         />
                     </Navbar.Brand>
                     <Nav className="ms-auto">
+                        <i onClick={handleShipping} className="fas fa-shopping-cart d-flex align-items-center me-2"></i>
                         {user?.email ? <Navbar.Text>
                             Signed in as: <a href="#login">{user.displayName}</a>
                             <Button onClick={logOut} variant="danger" className="mx-3 rounded-pill px-4">Log Out</Button>
                         </Navbar.Text>
                             :
                             <div className="d-flex">
-                                <Nav.Link>
-                                    <i className="fas fa-shopping-cart"></i>
-                                </Nav.Link>
+
                                 <Button onClick={handleLogIn} variant="danger" className="mx-3 rounded-pill px-4">Login</Button>
                                 <Button onClick={handleSignUp} variant="danger" className="rounded-pill px-4">Sign up</Button>
                             </div>
